@@ -1,24 +1,22 @@
 ## blogs-api
 
-O objetivo do projeto foi desenvolver uma aplicação em Node.js para fazer um CRUD de postagens de um blog com autenticação de pessoas usuárias, ORM e arquitetura de software em camadas.
+The goal of the project was to develop a Node.js application to perform a CRUD for blog posts with user authentication, ORM, and layered software architecture.
 
-<strong><h3>Tecnologias utilizadas</h3></strong>
+<strong><h3>Technologies used</h3></strong>
 
-- Node.js;
-- Express;
-- Sequelize (MySQL);
-- JWT;
+- Node.js;  
+- Express;  
+- Sequelize (MySQL);  
+- JWT;  
 
+<strong><h3>Running the project</h3></strong>  
 
-<strong><h3>Executando o projeto</h3></strong>
-  
-1. Clone o repositório
-  * `git clone git@github.com:mayaraujom/blogs-api.git`.
-  * Entre na pasta do repositório que você acabou de clonar
- 2. Instale as dependências
-  * `npm install`
-  3. Configure as variáveis de ambiente em um arquivo .env
+1. Clone the repository  
+  * `git clone git@github.com:mayaraujom/blogs-api.git`.  
+  * Enter the repository folder you just cloned  
+2. Install dependencies  
+  * `npm install`  
+3. Set up environment variables in a .env file  
 
-3. Para iniciar o projeto:
+4. To start the project:  
   * `npm start`
-
